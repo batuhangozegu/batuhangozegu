@@ -64,14 +64,21 @@ Readable code is scalable code. Swift makes both possible.
 
 ### 🌐 Social Media
 
-<p align="left" style="display: flex; gap: 40px;">
-  <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" style="display: block; margin: 0 auto;" />
-    <span style="display: block; margin-top: 8px; font-weight: 600;">batuhangozegu</span>
-  </a>
+<table>
+  <tr>
+    <td align="center" style="padding: 0 20px;">
+      <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank" style="text-decoration:none; color:inherit;">
+        <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" /><br />
+        <span style="font-weight: 600;">batuhangozegu</span>
+      </a>
+    </td>
+    
+    <td align="center" style="padding: 0 20px;">
+      <a href="https://www.instagram.com/batuhangozegu" target="_blank" style="text-decoration:none; color:inherit;">
+        <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" /><br />
+        <span style="font-weight: 600;">@batuhangozegu</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.instagram.com/batuhangozegu" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" style="display: block; margin: 0 auto;" />
-    <span style="display: block; margin-top: 8px; font-weight: 600;">@batuhangozegu</span>
-  </a>
-</p>
