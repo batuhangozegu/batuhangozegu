@@ -64,6 +64,14 @@ Readable code is scalable code. Swift makes both possible.
 
 ### 🌐 Social Media
 
-<p align="left"> <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank"> <img src="https://img.icons8.com/ios-filled/32/0A66C2/linkedin.png" alt="LinkedIn" style="vertical-align:middle; margin-right: 8px;"/> <span style="font-size:16px; vertical-align:middle;">batuhangozegu</span> </a> </p> 
-<p align="left"> <a href="https://www.instagram.com/batuhangozegu" target="_blank"> <img src="https://img.icons8.com/ios-filled/32/E4405F/instagram-new.png" alt="Instagram" style="vertical-align:middle; margin-right: 8px;"/> <span style="font-size:16px; vertical-align:middle;">@batuhangozegu</span> </a> </p>
----
+<p align="left" style="display: flex; gap: 24px;">
+  <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="display: block; margin: 0 auto;"/>
+    <span style="display: block; font-size: 14px; margin-top: 6px;">batuhangozegu</span>
+  </a>
+
+  <a href="https://www.instagram.com/batuhangozegu" target="_blank" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" style="display: block; margin: 0 auto;"/>
+    <span style="display: block; font-size: 14px; margin-top: 6px;">@batuhangozegu</span>
+  </a>
+</p>
