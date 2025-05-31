@@ -64,7 +64,6 @@ Readable code is scalable code. Swift makes both possible.
 
 ### 🌐 Social Media
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhangozegu)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/batuhangozegu)
-
+<p align="left"> <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank"> <img src="https://img.icons8.com/ios-filled/32/0A66C2/linkedin.png" alt="LinkedIn" style="vertical-align:middle; margin-right: 8px;"/> <span style="font-size:16px; vertical-align:middle;">batuhangozegu</span> </a> </p> 
+<p align="left"> <a href="https://www.instagram.com/batuhangozegu" target="_blank"> <img src="https://img.icons8.com/ios-filled/32/E4405F/instagram-new.png" alt="Instagram" style="vertical-align:middle; margin-right: 8px;"/> <span style="font-size:16px; vertical-align:middle;">@batuhangozegu</span> </a> </p>
 ---
