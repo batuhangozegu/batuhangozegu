@@ -58,7 +58,7 @@
 
 ### ✍️ Quote of the Day
 
-> *“Readable code is scalable code. Swift makes both possible.”*
+Readable code is scalable code. Swift makes both possible.
 
 ---
 
