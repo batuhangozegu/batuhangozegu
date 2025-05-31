@@ -72,7 +72,6 @@ Readable code is scalable code. Swift makes both possible.
         <span style="font-weight: 600;">batuhangozegu</span>
       </a>
     </td>
-    
     <td align="center" style="padding: 0 20px;">
       <a href="https://www.instagram.com/batuhangozegu" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" /><br />
