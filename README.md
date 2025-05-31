@@ -1,7 +1,7 @@
 <!-- Profil README -->
 
-<h1 align="center">Hi there 👋, I'm Batuhan</h1>
-<h3 align="center">💻 Computer Engineering Student | Swift & iOS Enthusiast | Tech Lover</h3>
+<h1 align="center">Hi there , I'm Batuhan</h1>
+<h3 align="center">💻 Computer Engineering Student | Swift & iOS | Tech Lover</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Profile%20views&color=0e75b6&style=flat" alt="batuhangozegu" />
