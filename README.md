@@ -1,7 +1,7 @@
 <!-- Profil README -->
 
 <h1 align="center">Hi there , I'm Batuhan</h1>
-<h3 align="center">💻 Computer Engineering Student | Swift & iOS | Tech Lover</h3>
+<h3 align="center">💻 Computer Engineering Student | Swift & iOS </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Profile%20views&color=0e75b6&style=flat" alt="batuhangozegu" />
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd year **Computer Engineering** student at **Namık Kemal University**
+- 🎓 4rd year **Computer Engineering** student at **Namık Kemal University**
 - 🍏 Passionate about building modern mobile apps using **SwiftUI** and **Firebase**
 - 🧠 Interested in clean architecture, UI/UX, and real-world project development
 - 📚 Always exploring new technologies and best practices in iOS development
@@ -38,29 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=batuhangozegu&show_icons=true&locale=en&theme=radical" alt="batuhangozegu" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuhangozegu&theme=radical" alt="batuhangozegu" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhangozegu&show_icons=true&locale=en&layout=compact&theme=radical" alt="batuhangozegu" />
-</p>
-
----
-
-### ✍️ Quote of the Day
-
-Readable code is scalable code. Swift makes both possible.
-
----
 
 ### 🌐 Social Media
 
