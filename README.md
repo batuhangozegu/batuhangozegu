@@ -1,61 +1,51 @@
-<!-- Profil README -->
-
-<h1 align="center">Hi there , I'm Batuhan</h1>
-<h3 align="center">💻 Computer Engineering Student | Swift & iOS </h3>
+<h1 align="center">👋 Hey, I'm Batuhan</h1>
+<h3 align="center">💻 iOS & Cross-Platform Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Profile%20views&color=0e75b6&style=flat" alt="batuhangozegu" />
+  <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Views&color=4C9EE3&style=flat-square" alt="views" />
 </p>
 
 ---
 
 ### 🚀 About Me
-
-- 🎓 4rd year **Computer Engineering** student at **Namık Kemal University**
-- 🍏 Passionate about building modern mobile apps using **SwiftUI** and **Firebase**
-- 🧠 Interested in clean architecture, UI/UX, and real-world project development
-- 📚 Always exploring new technologies and best practices in iOS development
-- 🔍 Learning through communities, documentation, and hands-on experience
+- 🎓 4th-year **Computer Engineering** student at **Namık Kemal University**  
+- 🍏 Passionate about **SwiftUI** and **cross-platform app development**  
+- 🧠 Currently learning **Flutter**, planning to move into **React Native**  
+- 💡 Focused on **clean architecture**, **UI/UX**, and **real-world app design**
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 👨‍💻 Programming Languages
-
+#### ⚙️ Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
 </p>
 
-#### 🗄️ Databases
-
+#### 🗄️ Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="36" />
 </p>
 
 ---
 
-### 🌐 Social Media
-
-<table>
-  <tr>
-    <td align="center" style="padding: 0 20px;">
-      <a href="https://www.linkedin.com/in/batuhangozegu" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" /><br />
-        <span style="font-weight: 600;">batuhangozegu</span>
-      </a>
-    </td>
-    <td align="center" style="padding: 0 20px;">
-      <a href="https://www.instagram.com/batuhangozegu" target="_blank" style="text-decoration:none; color:inherit;">
-        <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" /><br />
-        <span style="font-weight: 600;">@batuhangozegu</span>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🌐 Connect
+<p align="center">
+  <a href="https://linkedin.com/in/batuhangozegu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/batuhangozegu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/batuhangozegu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
