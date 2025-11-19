@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 4th-year **Computer Engineering** student at **Namık Kemal University**  
 - 🍏 Passionate about **SwiftUI** and **cross-platform app development**  
-- 🧠 Currently learning **Flutter**, planning to move into **React Native**  
+- 🧠 Currently learning **Flutter**  
 - 💡 Focused on **clean architecture**, **UI/UX**, and **real-world app design**
 
 ---
