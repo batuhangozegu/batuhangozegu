@@ -8,7 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 4th-year **Computer Engineering** student at **Namık Kemal University** - 🍏 Passionate about **SwiftUI** and **cross-platform app development** - ⚙️ Currently expanding into **Backend Development (Java, Spring Boot, PostgreSQL)** - 💡 Focused on **clean architecture**, **RESTful APIs**, and **real-world app design**
+- 🎓 4th-year **Computer Engineering** student at **Namık Kemal University**
+- 🍏 Passionate about **SwiftUI** and **cross-platform app development**
+- ⚙️ Currently expanding into **Backend Development (Java, Spring Boot, PostgreSQL)**
+- 💡 Focused on **clean architecture**, **RESTful APIs**, and **real-world app design**
 
 ---
 
@@ -40,16 +43,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="36" />
-</p>
-
----
-
-### 🌐 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/batuhangozegu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/batuhangozegu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
