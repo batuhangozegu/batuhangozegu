@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Computer Engineering** graduate (Tekirdağ Namık Kemal University) — completing a mandatory internship before receiving my diploma
+- 🎓 **Computer Engineering** graduate (Tekirdağ Namık Kemal University) 
 - ⚙️ Backend-focused developer working with **Java, Spring Boot, Spring Security, PostgreSQL, Redis**
 - 🔐 Interested in **authentication systems, clean architecture, and secure API design**
 - 📱 Started my dev journey with **Swift/SwiftUI & Flutter** — still enjoy mobile projects on the side
