@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hey, I'm Batuhan</h1>
 <h3 align="center">🔧 Backend Developer | Java & Spring Boot | Computer Engineering Graduate</h3>
 
- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=batuhangozegu&style=flat-square" alt="Profile views" />
-  </p>
-
 ---
 
 ### 🚀 About Me
