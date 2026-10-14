@@ -2,7 +2,7 @@
 <h3 align="center">🔧 Backend Developer | Java & Spring Boot | Computer Engineering Graduate</h3>
 
  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Views&color=4C9EE3&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=batuhangozegu&style=flat-square" alt="Profile views" />
   </p>
 
 ---
