@@ -1,14 +1,15 @@
 <h1 align="center">👋 Hey, I'm Batuhan</h1>
 <h3 align="center">🔧 Backend Developer | Java & Spring Boot | Computer Engineering Graduate</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Views&color=4C9EE3&style=flat-square" alt="Profile views" />
-</p>
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=batuhangozegu&label=Views&color=4C9EE3&style=flat-square" alt="Profile views" />
+  </p>
 
 ---
 
 ### 🚀 About Me
 
+- 🌐 My portfolio and projects: **[batuhangozegu.com](https://batuhangozegu.com)**
 - 🎓 **Computer Engineering** graduate from **Tekirdağ Namık Kemal University**
 - ⚙️ Backend-focused developer working with **Java, Spring Boot, Spring Security, and PostgreSQL**
 - 🔐 Interested in **authentication systems, clean architecture, and secure API design**
