@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hey, I'm Batuhan</h1>
 <h3 align="center">🔧 Backend Developer | Java & Spring Boot | Computer Engineering Graduate</h3>
 
+<p align="center">
+  <img src="https://github-counter-nine.vercel.app/badge.svg" alt="Profile view counter on GitHub" />
+</p>
+
 ---
 
 ### 🚀 About Me
